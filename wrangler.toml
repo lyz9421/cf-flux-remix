@@ -33,4 +33,4 @@ CUSTOMER_MODEL_MAP = '''{
     "SD-XL-Bash-CF":"@cf/stabilityai/stable-diffusion-xl-base-1.0",
     "SD-XL-Lightning-CF":"@cf/bytedance/stable-diffusion-xl-lightning"
 }'''
-getme = "测试专用"
+getme = "测"
